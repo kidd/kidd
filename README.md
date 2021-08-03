@@ -1,5 +1,6 @@
-
+I'm always happy to have a quick chat, meet new people, or catch up with old contacts. Let's book a meeting: https://calendly.com/raimonster
 <!--
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 ![Metrics](https://github.com/kidd/kidd/blob/main/github-metrics.svg)
 **kidd/kidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
